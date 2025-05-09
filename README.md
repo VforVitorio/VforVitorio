@@ -1,71 +1,90 @@
-Here’s a more formal and expanded version of your README, tailored for a developer audience:
+# 🏎️ Welcome to my GitHub Profile!
+
+
+
+<p align="center">
+  <img 
+    src="https://github.com/VforVitorio.png" 
+    width="200" 
+    alt="VforVitorio logo" 
+  />
+</p>
+
+
+
+I'm currently a 4th-year student in **Intelligent Systems Engineering** at UIE Campus Coruña, with a strong focus on AI applications in motorsport analytics. I'm also an alumnus of the **Engineering Summer Programme (2023)** at Girton College, Cambridge University, where I gained foundational knowledge in quantum mechanics, jet engines, and nanotechnology.
+
+Continuously expanding my expertise through self-directed learning, I'm currently completing the **Deep Learning Specialization by Andrew Ng** on Coursera, among other certifications and courses in AI and data science.
 
 ---
 
-# 🏎️ Welcome to My GitHub Profile!  
 
-Hello, I'm **VforVitorio**, a passionate developer and lifelong learner with a deep interest in **software development**, **problem-solving**, and the **thrill of Formula 1**. I am constantly exploring new technologies and frameworks to expand my skillset and refine my craft. 🚀  
 
----
+## 🌟 About Me
 
-## 🌟 About Me  
-
-- 🏁 **Dedicated to Formula 1 AI and Data Analytics**:  
-  I channel my love for F1 into projects like the **F1 Strat Manager**, where I experiment with strategic analysis and continuous improvement. This includes the development of tools and methodologies inspired by the high-paced decision-making environment of Formula 1.  
-  - 📄 *Related work*: Authored a **research paper** (not yet published) focused on strategy optimization in F1, blending technical innovation with real-world applications.  
-
-- 💡 **Driven by Innovation and Learning**:  
-  I actively seek new challenges and opportunities to grow as a developer. My interests span multiple areas, including:  
-  - **Data Analysis**
-  - **Frameworks for data transformation and simulation** (e.g., Reflex, Gymnasium)  
-  - **Web technologies** such as **HTML**, **CSS**, and **JavaScript**  
-
-- 🌱 **Committed to Growth**:  
-  I embrace a mindset of *lifelong learning*. Whether it's diving into a new programming language, framework, or concept, I am constantly pushing myself to improve and stay at the forefront of technological advancements.  
+* 🏁  **Dedicated to Formula 1 AI & Data Analytics** : I channel my passion for F1 into projects like  **F1 Strategy Manager** , developing multi-model AI systems that combine machine learning, computer vision, and NLP to optimize race strategies.
+  * *Related work* : Authored research on applying rule-based expert systems and predictive modeling to F1 strategy optimization.
+* 💡  **Driven by AI-Powered Sports Analytics** : My academic background is heavily focused on machine learning, deep learning, and intelligent systems, with a strong mathematical foundation. I'm passionate about decoding complex F1 phenomena through data analysis, extracting meaningful patterns from telemetry data, weather conditions, and team communications to understand the subtle factors that determine race outcomes.
+* 🌱  **Committed to AI Model Optimization** : I specialize in identifying and implementing the most effective AI models for complex, multi-dimensional racing data. From tire degradation patterns to strategic decision points, I enjoy building systems that transform raw data into predictive insights that would be impossible to detect manually.
 
 ---
 
-## 🛠️ Technical Skills  
+## 🛠️ Technical Skills
 
-- **Programming Languages**: Python, JavaScript, HTML, CSS  
-- **Frameworks and Libraries**: Reflex, Gymnasium  
-- **Specialized Interests**:  
-  - Strategic modeling and simulation (F1 context and beyond)  
-  - Data-driven decision-making tools  
-  - Building interactive and responsive web applications  
-
----
-
-## 🌐 Let's Connect  
-
-Feel free to reach out if you'd like to collaborate on a project, discuss new ideas, or connect professionally. You can find me at:  
-- 📧 Email: [victorvegasobral@yahoo.com]  
-- 💼 LinkedIn: [https://www.linkedin.com/in/victorvegasobral/]  
-
----
-
-## 🎨 Media and Visuals  
-
-To make this profile more engaging, here’s a space for a relevant banner or image. You could add:  
-- A Formula 1-themed banner  
-- A personal logo  
-- A Github stats card  
-
-Example:  
-![F1 Passion](https://example.com/your-image-link.jpg) *(Replace this placeholder with your custom image link)*  
+* **Languages:**
+  * Python (advanced data science stack)
+  * JavaScript, HTML, CSS (beginner level from web project experience)
+* **Frameworks & Libraries:**
+  * **Data Science** : pandas, NumPy, scikit-learn, XGBoost, PyTorch, TensorFlow
+  * **Domain-Specific** : FastF1, Experta (rule engine), Digital Twin frameworks
+  * **Visualization** : Matplotlib, Seaborn, Plotly, Streamlit, Reflex
+  * **ML Ops** : Custom training pipelines, model versioning
+* **Specialized Expertise:**
+  * Multi-modal AI systems (computer vision, NLP, time-series analysis)
+  * Deep learning for complex pattern recognition in racing data
+  * Intelligent systems and expert rule engines for strategic decision-making
+  * Mathematical modeling of racing dynamics and tire physics
+  * Interactive dashboards for real-time race strategy optimization
+  * Predictive analytics for performance trends under varying conditions
 
 ---
 
-## 📂 Featured Projects  
 
-### 🏎️ **F1 Strat Manager**  
-- A tool designed for strategy optimization in Formula 1, integrating cutting-edge technologies and real-world data.  
-- Focus: Simulation, analysis, and continuous improvement.  
 
-### 🌐 **Web Development Projects**  
-- Responsive websites and applications using **HTML**, **CSS**, and **JavaScript**.  
-- Experimenting with frameworks like **Reflex** for seamless user experiences.  
+## 📂 Featured Projects
 
-### 🤖 **AI and Simulations**  
-- Leveraging **Gymnasium** and other libraries to create simulations and explore the intersection of technology and decision-making.  
+### 🏎️ F1 Strat Manager
 
+A strategy optimization tool for Formula 1, integrating real-world telemetry and continuous learning algorithms.
+🔗 [github.com/VforVitorio/F1_Strat_Manager](https://github.com/VforVitorio/F1_Strat_Manager)
+
+### 🌐 Web Development Portfolio
+
+Responsive websites and apps built with HTML, CSS, JavaScript, and Reflex for seamless UX.
+🔗 [Digital Transformation Tool](https://github.com/VforVitorio/Transformacion)
+
+[🔗 SailGreen, sustainable ship renting idea](https://vforvitorio.github.io/)
+
+### 🤖 AI & Simulation Experiments
+
+Gymnasium-based simulations exploring reinforcement learning in dynamic environments.
+🔗 [github.com/VforVitorio/PLE03](https://github.com/VforVitorio/PLE03)
+
+Final project of Machine Learning subject made alongside @[Santisoutoo](https://github.com/Santisoutoo), first semester of third year.
+
+🔗 [https://github.com/Santisoutoo/aprendizaje_autom-tico](https://github.com/Santisoutoo/aprendizaje_autom-tico)
+
+---
+
+<!-- Banner image goes here -->
+
+## 🌐 Let’s Connect
+
+Feel free to reach out for collaborations, questions, or just to chat about F1 and AI:
+
+- 📧 [victorvegasobral@yahoo.com](mailto:victorvegasobral@yahoo.com)
+- 💼 [LinkedIn](https://www.linkedin.com/in/victorvegasobral/)
+
+---
+
+*Thank you for stopping by—check out my repositories below!*
