@@ -2,13 +2,17 @@
 
 
 
+
 <p align="center">
-  <img 
-    src="https://github.com/VforVitorio.png" 
-    width="200" 
-    alt="VforVitorio logo" 
+  <img
+    src="https://github.com/VforVitorio.png?s=200"
+    width="200"
+    height="200"
+    style="border-radius:50%;"
+    alt="VforVitorio avatar"
   />
 </p>
+
 
 
 
