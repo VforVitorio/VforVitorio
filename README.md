@@ -88,6 +88,7 @@ Feel free to reach out for collaborations, questions, or just to chat about F1 a
 
 - 📧 [victorvegasobral@yahoo.com](mailto:victorvegasobral@yahoo.com)
 - 💼 [LinkedIn](https://www.linkedin.com/in/victorvegasobral/)
+- ✍️ [Medidum](https://medium.com/@VforVitorio/)
 
 ---
 
