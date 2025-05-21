@@ -59,11 +59,10 @@ Continuously expanding my expertise through self-directed learning, I'm currentl
 
 ### 🏎️ F1 Strat Manager
 
+A strategy optimization tool for Formula 1, integrating real-world telemetry and continuous learning algorithms.
 <p align="center">
   <img src="medium.png" alt="F1 Strategy Manager AI image" width="350">
 </p>
-
-A strategy optimization tool for Formula 1, integrating real-world telemetry and continuous learning algorithms.
 🔗 [github.com/VforVitorio/F1_Strat_Manager](https://github.com/VforVitorio/F1_Strat_Manager)
 
 
@@ -71,6 +70,7 @@ A strategy optimization tool for Formula 1, integrating real-world telemetry and
 ### 🌐 Web Development Portfolio
 
 Responsive websites and apps built with HTML, CSS, JavaScript, and Reflex for seamless UX.
+
 🔗 [Digital Transformation Tool](https://github.com/VforVitorio/Transformacion)
 
 [🔗 SailGreen, sustainable ship renting idea](https://vforvitorio.github.io/)
@@ -78,6 +78,7 @@ Responsive websites and apps built with HTML, CSS, JavaScript, and Reflex for se
 ### 🤖 AI & Simulation Experiments
 
 Gymnasium-based simulations exploring reinforcement learning in dynamic environments.
+
 🔗 [github.com/VforVitorio/PLE03](https://github.com/VforVitorio/PLE03)
 
 Final project of Machine Learning subject made alongside @[Santisoutoo](https://github.com/Santisoutoo), first semester of third year.
