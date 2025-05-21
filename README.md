@@ -57,15 +57,19 @@ Continuously expanding my expertise through self-directed learning, I'm currentl
 
 ## 📂 Featured Projects
 
-### 🏎️ F1 Strat Manager
+### 🏎️ F1 Strat Manager AI
 
-A strategy optimization tool for Formula 1, integrating real-world telemetry and continuous learning algorithms.
+An integrated F1 Strategy Assistant that combines different AI models to provide recommendations for race engineers. It leverages multiple AI methods—from Deep Learning and NLP to expert systems and predictive modeling—to optimize Formula 1 race strategies.
+
 <p align="center">
   <img src="medium.png" alt="F1 Strategy Manager AI image" width="350">
 </p>
 🔗 [github.com/VforVitorio/F1_Strat_Manager](https://github.com/VforVitorio/F1_Strat_Manager)
 
+### 🏁 F1 AI Team Detection
+Project focused on identifying and classifying F1 teams from race images and videos.The project also includes a feature that draws a line displaying the gap between cars in both meters and seconds.
 
+🔗 [github.com/VforVitorio/F1_AI_team_detection](https://github.com/VforVitorio/F1_AI_team_detection)
 
 ### 🌐 Web Development Portfolio
 
