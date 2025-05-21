@@ -63,7 +63,7 @@ A strategy optimization tool for Formula 1, integrating real-world telemetry and
 🔗 [github.com/VforVitorio/F1_Strat_Manager](https://github.com/VforVitorio/F1_Strat_Manager)
 
 <p align="center">
-  <img src="medium.png" alt="F1 Strategy Manager AI image" width="350" height="120">
+  <img src="medium.png" alt="F1 Strategy Manager AI image" width="350">
 </p>
 
 ### 🌐 Web Development Portfolio
