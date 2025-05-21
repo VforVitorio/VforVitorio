@@ -62,7 +62,9 @@ Continuously expanding my expertise through self-directed learning, I'm currentl
 A strategy optimization tool for Formula 1, integrating real-world telemetry and continuous learning algorithms.
 🔗 [github.com/VforVitorio/F1_Strat_Manager](https://github.com/VforVitorio/F1_Strat_Manager)
 
-![F1 Strategy Manager AI image](medium.png)
+<p align="center">
+  <img src="medium.png" alt="F1 Strategy Manager AI image" width="350" height="120">
+</p>
 
 ### 🌐 Web Development Portfolio
 
