@@ -70,6 +70,10 @@ An integrated F1 Strategy Assistant that combines different AI models to provide
 
 Project focused on identifying and classifying F1 teams from race images and videos.The project also includes a feature that draws a line displaying the gap between cars in both meters and seconds. Extension of the Team Detection modelling made in F1 Strat Manager AI.
 
+<p align="center">
+  <img src="f1_gif-ezgif.com-crop.gif" alt="F1 Gif demo" style="width:65%;"/>
+</p>
+
 
 🔗 [github.com/VforVitorio/F1_AI_team_detection](https://github.com/VforVitorio/F1_AI_team_detection)
 
