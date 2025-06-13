@@ -64,7 +64,7 @@ An integrated F1 Strategy Assistant that combines different AI models to provide
   <img
     src="f1_strat_manager_banner.jpeg"
     alt="Banner VforVitorio"
-    style="width:100%; max-width:600px; aspect-ratio:21/9; border-radius:20px;"
+    style="width:100%; max-width:300px; aspect-ratio:21/9; border-radius:20px;"
   />
 </p>
 
