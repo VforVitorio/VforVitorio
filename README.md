@@ -61,8 +61,13 @@ Continuously expanding my expertise through self-directed learning, I'm currentl
 An integrated F1 Strategy Assistant that combines different AI models to provide recommendations for race engineers. It leverages multiple AI methods—from Deep Learning and NLP to expert systems and predictive modeling—to optimize Formula 1 race strategies.
 
 <p align="center">
-  <img src="medium.png" alt="F1 Strategy Manager AI image" width="350">
+  <img
+    src="f1_strat_manager_banner.jpeg"
+    alt="Banner VforVitorio"
+    style="width:100%; max-width:600px; aspect-ratio:21/9; border-radius:20px;"
+  />
 </p>
+
 🔗 [github.com/VforVitorio/F1_Strat_Manager](https://github.com/VforVitorio/F1_Strat_Manager)
 
 ### 🏁 F1 AI Team Detection
