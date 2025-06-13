@@ -61,7 +61,7 @@ Continuously expanding my expertise through self-directed learning, I'm currentl
   <img
     src="f1_strat_manager_banner.jpeg"
     alt="Banner VforVitorio"
-    style="width:40%; max-width:900px; aspect-ratio:21/9; border-radius:20px;"
+    style="width:75%; max-width:900px; aspect-ratio:21/9; border-radius:20px;"
   />
 </p>
 
