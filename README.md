@@ -1,15 +1,10 @@
 # 🏎️ Welcome to my GitHub Profile!
 
-
-
-
 <p align="center">
   <img
-    src="https://github.com/VforVitorio.png?s=200"
-    width="200"
-    height="200"
-    style="border-radius:50%;"
-    alt="VforVitorio avatar"
+    src="banner.jpeg"
+    alt="Banner VforVitorio"
+    style="width:100%; max-width:900px; aspect-ratio:21/9; border-radius:20px;"
   />
 </p>
 
