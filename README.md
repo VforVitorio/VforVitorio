@@ -14,7 +14,6 @@
 
 
 
-
 I'm currently a 4th-year student in **Intelligent Systems Engineering** at UIE Campus Coruña, with a strong focus on AI applications in motorsport analytics. I'm also an alumnus of the **Engineering Summer Programme (2023)** at Girton College, Cambridge University, where I gained foundational knowledge in quantum mechanics, jet engines, and nanotechnology.
 
 Continuously expanding my expertise through self-directed learning, I'm currently completing the **Deep Learning Specialization by Andrew Ng** on Coursera, among other certifications and courses in AI and data science, such as **IBM Deep Learning with PyTorch, Keras and Tensorflow Professional Certificate**.
@@ -58,15 +57,15 @@ Continuously expanding my expertise through self-directed learning, I'm currentl
 
 ### 🏎️ F1 Strat Manager AI
 
-An integrated F1 Strategy Assistant that combines different AI models to provide recommendations for race engineers. It leverages multiple AI methods—from Deep Learning and NLP to expert systems and predictive modeling—to optimize Formula 1 race strategies.
-
 <p align="center">
   <img
     src="f1_strat_manager_banner.jpeg"
     alt="Banner VforVitorio"
-    style="width:100%; max-width:300px; aspect-ratio:21/9; border-radius:20px;"
+    style="width:40%; max-width:900px; aspect-ratio:21/9; border-radius:20px;"
   />
 </p>
+
+An integrated F1 Strategy Assistant that combines different AI models to provide recommendations for race engineers. It leverages multiple AI methods—from Deep Learning and NLP to expert systems and predictive modeling—to optimize Formula 1 race strategies.
 
 🔗 [github.com/VforVitorio/F1_Strat_Manager](https://github.com/VforVitorio/F1_Strat_Manager)
 
@@ -74,12 +73,14 @@ An integrated F1 Strategy Assistant that combines different AI models to provide
 
 Project focused on identifying and classifying F1 teams from race images and videos.The project also includes a feature that draws a line displaying the gap between cars in both meters and seconds. Extension of the Team Detection modelling made in F1 Strat Manager AI.
 
+🔗 [github.com/VforVitorio/F1_AI_team_detection](https://github.com/VforVitorio/F1_AI_team_detection)
+
 <p align="center">
   <img src="f1_gif-ezgif.com-crop.gif" alt="F1 Gif demo" style="width:65%;"/>
 </p>
 
 
-🔗 [github.com/VforVitorio/F1_AI_team_detection](https://github.com/VforVitorio/F1_AI_team_detection)
+
 
 ### 🌐 Web Development Portfolio
 
