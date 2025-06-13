@@ -36,11 +36,13 @@ Continuously expanding my expertise through self-directed learning, I'm currentl
 * **Languages:**
   * Python (advanced data science stack)
   * JavaScript, HTML, CSS (beginner level from web project experience)
+    
 * **Frameworks & Libraries:**
   * **Data Science** : pandas, NumPy, scikit-learn, XGBoost, PyTorch, TensorFlow
   * **Domain-Specific** : FastF1, Experta (rule engine), Digital Twin frameworks
   * **Visualization** : Matplotlib, Seaborn, Plotly, Streamlit, Reflex
   * **ML Ops** : Custom training pipelines, model versioning
+    
 * **Specialized Expertise:**
   * Multi-modal AI systems (computer vision, NLP, time-series analysis)
   * Deep learning for complex pattern recognition in racing data
@@ -54,6 +56,8 @@ Continuously expanding my expertise through self-directed learning, I'm currentl
 
 
 ## 📂 Featured Projects
+
+
 
 ### 🏎️ F1 Strat Manager AI
 
@@ -69,17 +73,17 @@ An integrated F1 Strategy Assistant that combines different AI models to provide
 
 🔗 [github.com/VforVitorio/F1_Strat_Manager](https://github.com/VforVitorio/F1_Strat_Manager)
 
+
+
 ### 🏁 F1 AI Team Detection
-
-Project focused on identifying and classifying F1 teams from race images and videos.The project also includes a feature that draws a line displaying the gap between cars in both meters and seconds. Extension of the Team Detection modelling made in F1 Strat Manager AI.
-
-🔗 [github.com/VforVitorio/F1_AI_team_detection](https://github.com/VforVitorio/F1_AI_team_detection)
 
 <p align="center">
   <img src="f1_gif-ezgif.com-crop.gif" alt="F1 Gif demo" style="width:65%;"/>
 </p>
 
+Project focused on identifying and classifying F1 teams from race images and videos.The project also includes a feature that draws a line displaying the gap between cars in both meters and seconds. Extension of the Team Detection modelling made in F1 Strat Manager AI.
 
+🔗 [github.com/VforVitorio/F1_AI_team_detection](https://github.com/VforVitorio/F1_AI_team_detection)
 
 
 ### 🌐 Web Development Portfolio
@@ -102,7 +106,7 @@ Final project of Machine Learning subject made alongside @[Santisoutoo](https://
 
 ---
 
-<!-- Banner image goes here -->
+
 
 ## 🌐 Let’s Connect
 
