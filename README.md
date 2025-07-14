@@ -76,6 +76,7 @@ Continuously expanding my expertise through self-directed learning, I'm currentl
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=Git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=GitHub&logoColor=white)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=Docker&logoColor=white)
+![MCP](https://badge.mcpx.dev?type=default&status=stable)
 
 ### Specialized Expertise
 - Multi-modal AI systems (computer vision, NLP, time-series analysis)
