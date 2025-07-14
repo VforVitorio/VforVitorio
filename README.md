@@ -12,14 +12,19 @@
   />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=VforVitorio&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VforVitorio&layout=compact&theme=radical&hide_border=true" alt="Top Languages"/>
-</p>
-
 I'm currently a 4th-year student in **Intelligent Systems Engineering** at UIE Campus Coruña, with a strong focus on AI applications in motorsport analytics. I'm also an alumnus of the **Engineering Summer Programme (2023)** at Girton College, Cambridge University, where I gained foundational knowledge in quantum mechanics, jet engines, and nanotechnology.
 
 Continuously expanding my expertise through self-directed learning, I'm currently completing the **DeepLearning.AI Data Analytics Professional Certificate**, among other certifications and courses in AI and data science.
+
+---
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=VforVitorio&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VforVitorio&layout=compact&theme=radical&hide_border=true" alt="Top Languages"/>
+</p>
 
 ---
 
@@ -66,6 +71,11 @@ Continuously expanding my expertise through self-directed learning, I'm currentl
 ![Matplotlib](https://img.shields.io/badge/-Matplotlib-ffffff?style=flat-square&logo=Matplotlib&logoColor=black)
 ![Plotly](https://img.shields.io/badge/-Plotly-3F4F75?style=flat-square&logo=Plotly&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/-Streamlit-FF4B4B?style=flat-square&logo=Streamlit&logoColor=white)
+
+### Tools & Platforms
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=Git&logoColor=white)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=GitHub&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=Docker&logoColor=white)
 
 ### Specialized Expertise
 - Multi-modal AI systems (computer vision, NLP, time-series analysis)
