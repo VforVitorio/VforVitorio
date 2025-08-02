@@ -149,6 +149,9 @@ Final project of Machine Learning subject made alongside @[Santisoutoo](https://
 ## 🤝 Let's Connect
 
 <p align="center">
+  <a href="https://www.victorvegasobral.com">
+    <img src="https://img.shields.io/badge/-Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white"/>
+  </a>
   <a href="mailto:victorvegasobral@yahoo.com">
     <img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=Gmail&logoColor=white"/>
   </a>
