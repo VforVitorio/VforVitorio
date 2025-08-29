@@ -14,7 +14,7 @@
 
 I'm currently a 4th-year student in **Intelligent Systems Engineering** at UIE Campus Coruña, with a strong focus on AI applications in motorsport analytics. I'm also an alumnus of the **Engineering Summer Programme (2023)** at Girton College, Cambridge University, where I gained foundational knowledge in quantum mechanics, jet engines, and nanotechnology.
 
-Continuously expanding my expertise through self-directed learning, I'm currently completing the **DeepLearning.AI Data Analytics Professional Certificate**, among other certifications and courses in AI and data science.
+Continuously expanding my expertise through self-directed learning, I have completed the **DeepLearning Specialization by DeepLearning.AI**, among other certifications and courses in AI and data science.
 
 ---
 
@@ -34,7 +34,7 @@ Continuously expanding my expertise through self-directed learning, I'm currentl
 - 🏛️ **Engineering Summer Programme (2023)** - Girton College, Cambridge University
 - 📚 **Deep Learning Specialization** - Andrew Ng (Coursera) ✅ *Completed*
 - 🔬 **IBM Deep Learning with PyTorch, Keras and Tensorflow** - Professional Certificate ✅ *Completed*
-- 📊 **DeepLearning.AI Data Analytics Professional Certificate** *[In Progress]*
+- 📊 **DeepLearning.AI Data Analytics Professional Certificate** ✅ *Completed*
 
 ---
 
@@ -133,7 +133,7 @@ Gymnasium-based simulations exploring reinforcement learning in dynamic environm
 
 Final project of Machine Learning subject made alongside @[Santisoutoo](https://github.com/Santisoutoo), first semester of third year.
 
-🔗 [https://github.com/Santisoutoo/aprendizaje_autom-tico](https://github.com/Santisoutoo/aprendizaje_autom-tico)
+🔗 [https://github.com/Santisoutoo/aprendizaje_autom-tico](https://github.com/Santisoutoo/Machine_Learning)
 
 ---
 
