@@ -32,10 +32,10 @@ Continuously expanding my expertise through self-directed learning, I have compl
 
 - 🎓 **4th-year Intelligent Systems Engineering** - UIE Campus Coruña
 - 🏛️ **Engineering Summer Programme (2023)** - Girton College, Cambridge University
-- 📚 **Deep Learning Specialization** - Andrew Ng (Coursera) ✅ *Completed*
-- 🔬 **IBM Deep Learning with PyTorch, Keras and Tensorflow** - Professional Certificate ✅ *Completed*
-- 📊 **DeepLearning.AI Data Analytics Professional Certificate** ✅ *Completed*
-
+- 📚 **Deep Learning Specialization** - Andrew Ng (Coursera)
+- 🔥 **PyTorch for Deep Learning Professional Certificate** - Laurence Moroney (Coursera)
+- 🔬 **IBM Deep Learning with PyTorch, Keras and Tensorflow** - Professional Certificate (Coursera)
+- 📊 **DeepLearning.AI Data Analytics Professional Certificate** - Sean Barnes (Coursera)
 ---
 
 ## 🌟 About Me
@@ -113,6 +113,16 @@ An integrated F1 Strategy Assistant that combines different AI models to provide
 Project focused on identifying and classifying F1 teams from race images and videos.The project also includes a feature that draws a line displaying the gap between cars in both meters and seconds. Extension of the Team Detection modelling made in [F1 Strat Manager AI](https://github.com/VforVitorio/F1_Strat_Manager).
 
 🔗 [github.com/VforVitorio/F1_AI_team_detection](https://github.com/VforVitorio/F1_AI_team_detection)
+
+### 📊 F1 Telemetry Manager
+
+<p align="center">
+  <img src="f1_telemetry_banner.jpeg" alt="F1 Telemetry Manager" style="width:65%;"/>
+</p>
+
+F1 telemetry analysis tool with multimodal input and automatic reports, made with Streamlit. This project enables comprehensive analysis and visualization of Formula 1 telemetry data.
+
+🔗 [github.com/VforVitorio/F1_Telemetry_Manager](https://github.com/VforVitorio/F1_Telemetry_Manager)
 
 ### 🌐 Web Development Portfolio
 
