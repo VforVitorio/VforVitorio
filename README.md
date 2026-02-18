@@ -42,14 +42,14 @@ Continuously expanding my expertise through self-directed learning, I have compl
 
 🏁 **F1 AI & Data Analytics Specialist**
 - Developing multi-model AI systems for Formula 1 strategy optimization
-- Research focus on rule-based expert systems and predictive modeling
+- Research focus on rule-based expert systems, predictive modeling and agentic AI
 
 💡 **AI-Powered Sports Analytics Enthusiast**
 - Specialized in machine learning, deep learning, and intelligent systems
 - Passionate about extracting insights from telemetry data and race dynamics
 
 🌱 **Continuous Learner**
-- Currently completing DeepLearning.AI Data Analytics Professional Certificate
+- Currently as an AI and Data Intern in NTT Data Spain, developing my skills in agentic AI
 - Always exploring new AI applications in motorsport analytics
 
 ---
@@ -81,8 +81,7 @@ Continuously expanding my expertise through self-directed learning, I have compl
 ### Specialized Expertise
 - Multi-modal AI systems (computer vision, NLP, time-series analysis)
 - Deep learning for complex pattern recognition in racing data
-- Intelligent systems and expert rule engines for strategic decision-making
-- Mathematical modeling of racing dynamics and tire physics
+- Intelligent systems, expert rule engines and agentic AI for strategic decision-making
 - Interactive dashboards for real-time race strategy optimization
 - Predictive analytics for performance trends under varying conditions
 
