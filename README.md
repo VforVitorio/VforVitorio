@@ -120,7 +120,7 @@ Project focused on identifying and classifying F1 teams from race images and vid
   <img src="f1_telemetry_banner.jpeg" alt="F1 Telemetry Manager" style="width:65%;"/>
 </p>
 
-F1 telemetry analysis tool with multimodal input and automatic reports, made with Streamlit. This project enables comprehensive analysis and visualization of Formula 1 telemetry data.
+F1 telemetry analysis tool with multimodal input and automatic reports, made with Streamlit and FastAPI. This project enables comprehensive analysis and visualization of Formula 1 telemetry data.
 
 🔗 [github.com/VforVitorio/F1_Telemetry_Manager](https://github.com/VforVitorio/F1_Telemetry_Manager)
 
