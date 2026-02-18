@@ -118,7 +118,7 @@ Project focused on identifying and classifying F1 teams from race images and vid
 ### 📊 F1 Telemetry Manager
 
 <p align="center">
-  <img src="F1 Telemetry Manager.gif" alt="F1 Telemetry Manager" style="width:65%;"/>
+  <img src="F1 Telemetry Manager .gif" alt="F1 Telemetry Manager" style="width:65%;"/>
 </p>
 
 F1 telemetry analysis tool with multimodal input and automatic reports, made with Streamlit and FastAPI. This project enables comprehensive analysis and visualization of Formula 1 telemetry data.
