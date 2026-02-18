@@ -71,6 +71,8 @@ Continuously expanding my expertise through self-directed learning, I have compl
 ![Matplotlib](https://img.shields.io/badge/-Matplotlib-ffffff?style=flat-square&logo=Matplotlib&logoColor=black)
 ![Plotly](https://img.shields.io/badge/-Plotly-3F4F75?style=flat-square&logo=Plotly&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/-Streamlit-FF4B4B?style=flat-square&logo=Streamlit&logoColor=white)
+![LangChain](https://img.shields.io/badge/-LangChain-1C3C3C?style=flat-square&logo=LangChain&logoColor=white)
+![LangGraph](https://img.shields.io/badge/-LangGraph-1C3C3C?style=flat-square&logo=LangChain&logoColor=white)
 
 ### Tools & Platforms
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=Git&logoColor=white)
@@ -116,7 +118,7 @@ Project focused on identifying and classifying F1 teams from race images and vid
 ### 📊 F1 Telemetry Manager
 
 <p align="center">
-  <img src="f1_telemetry_banner.jpeg" alt="F1 Telemetry Manager" style="width:65%;"/>
+  <img src="F1 Telemetry Manager gif.gif" alt="F1 Telemetry Manager" style="width:65%;"/>
 </p>
 
 F1 telemetry analysis tool with multimodal input and automatic reports, made with Streamlit and FastAPI. This project enables comprehensive analysis and visualization of Formula 1 telemetry data.
