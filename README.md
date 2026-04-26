@@ -29,7 +29,7 @@ I work mostly on AI applied to Formula 1: strategy systems, telemetry analysis, 
 
 <p align="center">
   <a href="https://vforvitorio.github.io/f1stratlab-web/">
-    <img src="f1_stratlab_landing.png" alt="F1 StratLab landing" width="700"/>
+    <img src="f1_stratlab_logo.png" alt="F1 StratLab" width="600"/>
   </a>
 </p>
 
