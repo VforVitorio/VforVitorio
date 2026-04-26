@@ -27,6 +27,12 @@ I work mostly on AI applied to Formula 1: strategy systems, telemetry analysis, 
 
 ### F1-StratLab — multi-agent F1 strategy system
 
+<p align="center">
+  <a href="https://vforvitorio.github.io/f1stratlab-web/">
+    <img src="f1_stratlab_landing.png" alt="F1 StratLab landing" width="700"/>
+  </a>
+</p>
+
 Final Degree Project. Seven ML models (XGBoost, TCN + MC Dropout, LightGBM, RoBERTa, SetFit, BERT-large, Whisper) plus a LangGraph multi-agent orchestrator and a 2D race replay UI. RAG over FIA regulations on Qdrant.
 
 [github.com/VforVitorio/F1-StratLab](https://github.com/VforVitorio/F1-StratLab) · [Landing](https://vforvitorio.github.io/f1stratlab-web/) · [DeepWiki](https://deepwiki.com/VforVitorio/F1-StratLab)
@@ -39,11 +45,19 @@ Formula 1 digital twin trained with behavioral cloning and reinforcement learnin
 
 ### F1 AI Team Detection — YOLOv12 over race footage
 
+<p align="center">
+  <img src="f1_gif-ezgif.com-crop.gif" alt="Team detection demo" width="600"/>
+</p>
+
 Detection and classification of F1 teams from race images and videos, with a derived feature that draws car-to-car gap in metres and seconds.
 
 [github.com/VforVitorio/F1_AI_team_detection](https://github.com/VforVitorio/F1_AI_team_detection)
 
 ### F1 Telemetry Manager — multimodal telemetry analysis
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/VforVitorio/VforVitorio/main/F1%20Telemetry%20Manager.gif" alt="F1 Telemetry Manager demo" width="600"/>
+</p>
 
 Streamlit + FastAPI tool for telemetry inspection, multimodal input and automatic reports. Vendored as a git submodule inside F1-StratLab.
 
