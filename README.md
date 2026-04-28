@@ -96,7 +96,7 @@ Python · PyTorch · TensorFlow · scikit-learn · LangChain · LangGraph · Fas
 
 ## Contact
 
-[Portfolio](https://www.victorvegasobral.com) · [LinkedIn](https://www.linkedin.com/in/victorvegasobral/) · [Medium](https://medium.com/@VforVitorio/) · [victorvegasobral@yahoo.com](mailto:victorvegasobral@yahoo.com)
+[Portfolio](https://www.victorvegasobral.com) · [LinkedIn](https://www.linkedin.com/in/victorvegasobral/) · [Medium](https://medium.com/@VforVitorio/)
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=VforVitorio&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile views"/>
