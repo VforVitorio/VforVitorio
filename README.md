@@ -2,7 +2,7 @@
 
 # Víctor Vega Sobral
 
-*4th-year Intelligent Systems Engineering at UIE Coruña · AI & Formula 1 analytics*
+*Junior AI Engineer at NTT DATA Spain · MSc AI Research (AEPIA/UIMP) · Formula 1 analytics*
 
 </div>
 
@@ -19,7 +19,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VforVitorio&layout=compact&theme=radical&hide_border=true&langs_count=8" alt="Top languages" height="160"/>
 </p>
 
-I work mostly on AI applied to Formula 1: strategy systems, telemetry analysis, computer vision over race footage and a few side experiments outside motorsport. Currently AI & Data intern at NTT Data Spain, focused on agentic AI. Alumnus of the Cambridge Engineering Summer Programme (2023, Girton College).
+I work mostly on AI applied to Formula 1: strategy systems, telemetry analysis, computer vision over race footage and a few side experiments outside motorsport. Junior AI Engineer at NTT DATA Spain (A Coruña), focused on agentic AI. Pursuing the Máster Universitario en Investigación en Inteligencia Artificial (AEPIA/UIMP). Alumnus of the Cambridge Engineering Summer Programme (2023, Girton College).
 
 ---
 
@@ -85,7 +85,8 @@ Python · PyTorch · TensorFlow · scikit-learn · LangChain · LangGraph · Fas
 
 ## Education and certifications
 
-- Intelligent Systems Engineering — UIE Coruña (4th year)
+- Máster Universitario en Investigación en Inteligencia Artificial — AEPIA / UIMP (in progress)
+- Bachelor's in Intelligent Systems Engineering — UIE Coruña · **9.0/10 average, 4× Matrícula de Honor** (≈ First-Class Honours, GPA ~3.9/4.0) · TFG awarded Matrícula de Honor and recommended for conversion into a research paper
 - Engineering Summer Programme 2023 — Girton College, Cambridge University
 - Deep Learning Specialization — DeepLearning.AI
 - PyTorch for Deep Learning Professional Certificate — Coursera
