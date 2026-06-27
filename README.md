@@ -86,7 +86,7 @@ Python · PyTorch · TensorFlow · scikit-learn · LangChain · LangGraph · Fas
 ## Education and certifications
 
 - Máster Universitario en Investigación en Inteligencia Artificial — AEPIA / UIMP (in progress)
-- Bachelor's in Intelligent Systems Engineering — UIE Coruña · **9.0/10 average, 4× Matrícula de Honor** (≈ First-Class Honours, GPA ~3.9/4.0) · TFG awarded Matrícula de Honor and recommended for conversion into a research paper
+- Bachelor's in Intelligent Systems Engineering — UIE Coruña · **graduated 9.0/10 (≈ First-Class Honours) with 4 'Matrícula de Honor' distinctions (Spain's highest course grade, GPA ~3.9/4.0)** · thesis awarded Matrícula de Honor, recommended for conversion into a research paper
 - Engineering Summer Programme 2023 — Girton College, Cambridge University
 - Deep Learning Specialization — DeepLearning.AI
 - PyTorch for Deep Learning Professional Certificate — Coursera
