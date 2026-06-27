@@ -2,7 +2,7 @@
 
 # Víctor Vega Sobral
 
-*Junior AI Engineer at NTT DATA Spain · MSc AI Research (AEPIA/UIMP) · Formula 1 analytics*
+*Junior AI Engineer at NTT DATA Spain · MSc AI Research (AEPIA/UIMP, alongside full-time) · Formula 1 analytics*
 
 </div>
 
@@ -19,7 +19,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VforVitorio&layout=compact&theme=radical&hide_border=true&langs_count=8" alt="Top languages" height="160"/>
 </p>
 
-I work mostly on AI applied to Formula 1: strategy systems, telemetry analysis, computer vision over race footage and a few side experiments outside motorsport. Junior AI Engineer at NTT DATA Spain (A Coruña), focused on agentic AI. Pursuing the Máster Universitario en Investigación en Inteligencia Artificial (AEPIA/UIMP). Alumnus of the Cambridge Engineering Summer Programme (2023, Girton College).
+I work mostly on AI applied to Formula 1: strategy systems, telemetry analysis, computer vision over race footage and a few side experiments outside motorsport. Junior AI Engineer at NTT DATA Spain (A Coruña), focused on agentic AI. Pursuing the Máster Universitario en Investigación en Inteligencia Artificial (AEPIA/UIMP) alongside his full-time role at NTT DATA Spain. Alumnus of the Cambridge Engineering Summer Programme (2023, Girton College).
 
 ---
 
