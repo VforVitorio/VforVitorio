@@ -29,8 +29,10 @@ I work mostly on AI applied to Formula 1: strategy systems, telemetry analysis, 
 
 <p align="center">
   <a href="https://vforvitorio.github.io/f1stratlab-web/">
-    <img src="f1_stratlab_logo.png" alt="F1 StratLab" width="600"/>
+    <img src="f1_stratlab_logo.png" alt="F1 StratLab" width="380"/>
   </a>
+  <br/>
+  <img src="assets/f1stratlab-arcade-demo.gif" alt="F1 StratLab arcade demo" width="680"/>
 </p>
 
 Final Degree Project. Seven ML models (XGBoost, TCN + MC Dropout, LightGBM, RoBERTa, SetFit, BERT-large, Whisper) plus a LangGraph multi-agent orchestrator and a 2D race replay UI. RAG over FIA regulations on Qdrant.
