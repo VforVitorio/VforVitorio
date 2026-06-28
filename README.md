@@ -19,7 +19,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VforVitorio&layout=compact&theme=radical&hide_border=true&langs_count=8" alt="Top languages" height="160"/>
 </p>
 
-I work mostly on AI applied to Formula 1: strategy systems, telemetry analysis, computer vision over race footage and a few side experiments outside motorsport. Junior AI Engineer at NTT DATA Spain (A Coruña), focused on agentic AI. Pursuing the Máster Universitario en Investigación en Inteligencia Artificial (AEPIA/UIMP) alongside his full-time role at NTT DATA Spain. Alumnus of the Cambridge Engineering Summer Programme (2023, Girton College).
+I work mostly on AI applied to Formula 1: strategy systems, telemetry analysis, computer vision over race footage and a few side experiments outside motorsport. Junior AI Engineer at NTT DATA Spain (A Coruña), working across many areas of AI, from computer vision research to research into LLM behavior, agentic AI solutions and tooling such as Model Context Protocol (MCP) servers. Now pursuing a Master's Degree in Artificial Intelligence Research (AEPIA / UIMP) alongside his full-time role. Alumnus of the Cambridge Engineering Summer Programme (2023, Girton College).
 
 ---
 
@@ -85,8 +85,8 @@ Python · PyTorch · TensorFlow · scikit-learn · LangChain · LangGraph · Fas
 
 ## Education and certifications
 
-- Máster Universitario en Investigación en Inteligencia Artificial — AEPIA / UIMP (in progress)
-- Bachelor's in Intelligent Systems Engineering — UIE Coruña · **graduated 9.0/10 (≈ First-Class Honours) with 4 'Matrícula de Honor' distinctions (Spain's highest course grade, GPA ~3.9/4.0)** · thesis awarded Matrícula de Honor, recommended for conversion into a research paper
+- Master's Degree in Artificial Intelligence Research — AEPIA / UIMP (in progress)
+- Bachelor's in Intelligent Systems Engineering — UIE Coruña · **graduated with a 9.0/10 average and 4 Distinctions (Matrícula de Honor)** · thesis awarded Distinction (Matrícula de Honor) and recommended for conversion into a research paper
 - Engineering Summer Programme 2023 — Girton College, Cambridge University
 - Deep Learning Specialization — DeepLearning.AI
 - PyTorch for Deep Learning Professional Certificate — Coursera
