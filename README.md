@@ -1,6 +1,6 @@
 <div align="center">
 
-# Víctor Vega Sobral
+# Hi, I'm Víctor 👋
 
 *Junior AI Engineer at NTT DATA Spain · MSc AI Research (AEPIA/UIMP, alongside full-time) · Formula 1 analytics*
 
@@ -99,7 +99,13 @@ Python · PyTorch · TensorFlow · scikit-learn · LangChain · LangGraph · Fas
 
 ## Contact
 
-[Portfolio](https://www.victorvegasobral.com) · [LinkedIn](https://www.linkedin.com/in/victorvegasobral/) · [Medium](https://medium.com/@VforVitorio/)
+<p align="center">
+  <a href="https://www.linkedin.com/in/victorvegasobral/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" height="34" alt="LinkedIn"/></a>
+  &nbsp;
+  <a href="https://www.victorvegasobral.com"><img src="https://img.shields.io/badge/Portfolio-6c5ce7?style=for-the-badge&logo=googlechrome&logoColor=white" height="34" alt="Portfolio"/></a>
+  &nbsp;
+  <a href="https://medium.com/@VforVitorio/"><img src="https://img.shields.io/badge/Medium-111111?style=for-the-badge&logo=medium&logoColor=white" height="34" alt="Medium"/></a>
+</p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=VforVitorio&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile views"/>
