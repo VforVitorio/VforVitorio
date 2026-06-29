@@ -1,6 +1,6 @@
 <div align="center">
 
-# Víctor
+# Hi!, I'm Víctor
 
 *Junior AI Engineer at NTT DATA Spain · MSc AI Research (AEPIA/UIMP, alongside full-time) · Formula 1 analytics*
 
