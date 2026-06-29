@@ -2,7 +2,7 @@
 
 # Hi! I'm Víctor
 
-*Junior AI Engineer at NTT DATA Spain · BSc Intelligent Systems Engineering · MSc AI Research (AEPIA/UIMP, alongside full-time) · Formula 1 analytics*
+*Junior AI Engineer at NTT DATA Spain · BSc Intelligent Systems Engineering (UIE) · MSc AI Research (AEPIA/UIMP, alongside full-time) · Formula 1 analytics*
 
 </div>
 
