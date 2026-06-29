@@ -39,28 +39,6 @@ Final Degree Project. Seven ML models (XGBoost, TCN + MC Dropout, LightGBM, RoBE
 
 [github.com/VforVitorio/F1-StratLab](https://github.com/VforVitorio/F1-StratLab) · [Landing](https://vforvitorio.github.io/f1stratlab-web/) · [DeepWiki](https://deepwiki.com/VforVitorio/F1-StratLab)
 
-### LexFlow — graph-based AI agent framework
-
-<p align="center">
-  <a href="https://github.com/VforVitorio/LexFlow">
-    <img src="https://raw.githubusercontent.com/VforVitorio/LexFlow/main/assets/lexflow-banner.jpeg" alt="LexFlow" width="680"/>
-  </a>
-</p>
-
-Open-source framework for building graph-based AI agent systems on FastAPI and MCP tools. Chat-driven workflows, tool calling and a visual graph interface for debugging and orchestration. Powers my legalize-es legislation corpus.
-
-[github.com/VforVitorio/LexFlow](https://github.com/VforVitorio/LexFlow)
-
-### marginalia — handwritten notes to Obsidian Markdown
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/VforVitorio/marginalia/main/docs/demo/marginalia-demo.gif" alt="marginalia demo: a handwritten Kindle Scribe page transcribed to Markdown and exported to an Obsidian vault" width="680"/>
-</p>
-
-Turns Kindle Scribe handwritten notebooks into Obsidian Markdown. Import a Scribe PDF, OCR the handwriting (even math, as KaTeX), review it side by side, then export to your vault.
-
-[github.com/VforVitorio/marginalia](https://github.com/VforVitorio/marginalia)
-
 ### F1 AC Digital Twin — Assetto Corsa behavioral RL
 
 Formula 1 digital twin trained with behavioral cloning and reinforcement learning over Assetto Corsa, with a Grafana / InfluxDB / Apache Kafka monitoring stack.
@@ -86,6 +64,28 @@ Detection and classification of F1 teams from race images and videos, with a der
 Streamlit + FastAPI tool for telemetry inspection, multimodal input and automatic reports. Vendored as a git submodule inside F1-StratLab.
 
 [github.com/VforVitorio/F1_Telemetry_Manager](https://github.com/VforVitorio/F1_Telemetry_Manager)
+
+### LexFlow — graph-based AI agent framework
+
+<p align="center">
+  <a href="https://github.com/VforVitorio/LexFlow">
+    <img src="https://raw.githubusercontent.com/VforVitorio/LexFlow/main/assets/lexflow-banner.jpeg" alt="LexFlow" width="476"/>
+  </a>
+</p>
+
+Open-source framework for building graph-based AI agent systems on FastAPI and MCP tools. Chat-driven workflows, tool calling and a visual graph interface for debugging and orchestration. Powers my legalize-es legislation corpus.
+
+[github.com/VforVitorio/LexFlow](https://github.com/VforVitorio/LexFlow)
+
+### marginalia — handwritten notes to Obsidian Markdown
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/VforVitorio/marginalia/main/docs/demo/marginalia-demo.gif" alt="marginalia demo: a handwritten Kindle Scribe page transcribed to Markdown and exported to an Obsidian vault" width="476"/>
+</p>
+
+Turns Kindle Scribe handwritten notebooks into Obsidian Markdown. Import a Scribe PDF, OCR the handwriting (even math, as KaTeX), review it side by side, then export to your vault.
+
+[github.com/VforVitorio/marginalia](https://github.com/VforVitorio/marginalia)
 
 ### lmcode — local coding agent CLI on LM Studio
 
