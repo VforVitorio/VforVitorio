@@ -1,13 +1,13 @@
 <div align="center">
 
-# Hi, I'm Víctor 👋
+# Víctor
 
 *Junior AI Engineer at NTT DATA Spain · MSc AI Research (AEPIA/UIMP, alongside full-time) · Formula 1 analytics*
 
 </div>
 
 <p align="center">
-  <img src="banner.jpeg" alt="Banner" width="900"/>
+  <img src="assets/banner/banner.png" alt="Banner" width="900"/>
 </p>
 
 <p align="center">
@@ -17,6 +17,14 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VforVitorio&layout=compact&theme=radical&hide_border=true&langs_count=8" alt="Top languages" height="160"/>
+</p>
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/VforVitorio/VforVitorio/output/github-snake-dark.svg"/>
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/VforVitorio/VforVitorio/output/github-snake.svg"/>
+    <img alt="Contribution snake animation" src="https://raw.githubusercontent.com/VforVitorio/VforVitorio/output/github-snake.svg" width="820"/>
+  </picture>
 </p>
 
 I work mostly on AI applied to Formula 1: strategy systems, telemetry analysis, computer vision over race footage and a few side experiments outside motorsport. Junior AI Engineer at NTT DATA Spain (A Coruña), working across many areas of AI, from computer vision research to research into LLM behavior, agentic AI solutions and tooling such as Model Context Protocol (MCP) servers. Now pursuing a Master's Degree in Artificial Intelligence Research (AEPIA / UIMP) alongside his full-time role. Alumnus of the Cambridge Engineering Summer Programme (2023, Girton College).
@@ -29,10 +37,10 @@ I work mostly on AI applied to Formula 1: strategy systems, telemetry analysis, 
 
 <p align="center">
   <a href="https://vforvitorio.github.io/f1stratlab-web/">
-    <img src="f1_stratlab_logo.png" alt="F1 StratLab" width="380"/>
+    <img src="assets/f1-stratlab/f1_stratlab_logo.png" alt="F1 StratLab" width="380"/>
   </a>
   <br/>
-  <img src="assets/f1stratlab-arcade-demo.gif" alt="F1 StratLab arcade demo" width="680"/>
+  <img src="assets/f1-stratlab/f1stratlab-arcade-demo.gif" alt="F1 StratLab arcade demo" width="680"/>
 </p>
 
 Final Degree Project. Seven ML models (XGBoost, TCN + MC Dropout, LightGBM, RoBERTa, SetFit, BERT-large, Whisper) plus a LangGraph multi-agent orchestrator and a 2D race replay UI. RAG over FIA regulations on Qdrant.
@@ -48,7 +56,7 @@ Formula 1 digital twin trained with behavioral cloning and reinforcement learnin
 ### F1 AI Team Detection — YOLOv12 over race footage
 
 <p align="center">
-  <img src="f1_gif-ezgif.com-crop.gif" alt="Team detection demo" width="600"/>
+  <img src="assets/team-detection/team-detection-demo.gif" alt="Team detection demo" width="540"/>
 </p>
 
 Detection and classification of F1 teams from race images and videos, with a derived feature that draws car-to-car gap in metres and seconds.
@@ -58,7 +66,7 @@ Detection and classification of F1 teams from race images and videos, with a der
 ### F1 Telemetry Manager — multimodal telemetry analysis
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/VforVitorio/VforVitorio/main/F1%20Telemetry%20Manager.gif" alt="F1 Telemetry Manager demo" width="600"/>
+  <img src="assets/telemetry/telemetry-demo.gif" alt="F1 Telemetry Manager demo" width="600"/>
 </p>
 
 Streamlit + FastAPI tool for telemetry inspection, multimodal input and automatic reports. Vendored as a git submodule inside F1-StratLab.
@@ -69,7 +77,7 @@ Streamlit + FastAPI tool for telemetry inspection, multimodal input and automati
 
 <p align="center">
   <a href="https://github.com/VforVitorio/LexFlow">
-    <img src="https://raw.githubusercontent.com/VforVitorio/LexFlow/main/assets/lexflow-banner.jpeg" alt="LexFlow" width="476"/>
+    <img src="assets/lexflow/lexflow-banner.png" alt="LexFlow" width="476"/>
   </a>
 </p>
 
@@ -80,7 +88,7 @@ Open-source framework for building graph-based AI agent systems on FastAPI and M
 ### marginalia — handwritten notes to Obsidian Markdown
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/VforVitorio/marginalia/main/docs/demo/marginalia-demo.gif" alt="marginalia demo: a handwritten Kindle Scribe page transcribed to Markdown and exported to an Obsidian vault" width="476"/>
+  <img src="assets/marginalia/marginalia-demo.gif" alt="marginalia demo: a handwritten Kindle Scribe page transcribed to Markdown and exported to an Obsidian vault" width="476"/>
 </p>
 
 Turns Kindle Scribe handwritten notebooks into Obsidian Markdown. Import a Scribe PDF, OCR the handwriting (even math, as KaTeX), review it side by side, then export to your vault.
@@ -103,7 +111,25 @@ Variational quantum classifier built with PyQuil over Rigetti's NISQ infrastruct
 
 ## Tech I use day to day
 
-Python · PyTorch · TensorFlow · scikit-learn · LangChain · LangGraph · FastAPI · Streamlit · Docker · pandas · NumPy · Plotly · Git
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" height="28" alt="Python"/>
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" height="28" alt="PyTorch"/>
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" height="28" alt="TensorFlow"/>
+  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" height="28" alt="scikit-learn"/>
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" height="28" alt="NumPy"/>
+  <img src="https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" height="28" alt="pandas"/>
+  <img src="https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white" height="28" alt="Plotly"/>
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" height="28" alt="LangChain"/>
+  <img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge&logo=langgraph&logoColor=white" height="28" alt="LangGraph"/>
+  <img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" height="28" alt="Hugging Face"/>
+  <img src="https://img.shields.io/badge/MCP-000000?style=for-the-badge&logo=modelcontextprotocol&logoColor=white" height="28" alt="Model Context Protocol"/>
+  <img src="https://img.shields.io/badge/Qdrant-DC244C?style=for-the-badge&logo=qdrant&logoColor=white" height="28" alt="Qdrant"/>
+  <img src="https://img.shields.io/badge/Pydantic-E92063?style=for-the-badge&logo=pydantic&logoColor=white" height="28" alt="Pydantic"/>
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" height="28" alt="FastAPI"/>
+  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" height="28" alt="Streamlit"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" height="28" alt="Docker"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" height="28" alt="Git"/>
+</p>
 
 ---
 
