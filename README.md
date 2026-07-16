@@ -128,6 +128,9 @@ Variational quantum classifier built with PyQuil over Rigetti's NISQ infrastruct
   <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" height="28" alt="FastAPI"/>
   <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" height="28" alt="Streamlit"/>
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" height="28" alt="Docker"/>
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" height="28" alt="Kubernetes"/>
+  <img src="https://img.shields.io/badge/Helm-0F1689?style=for-the-badge&logo=helm&logoColor=white" height="28" alt="Helm"/>
+  <img src="https://img.shields.io/badge/Terraform-844FBA?style=for-the-badge&logo=terraform&logoColor=white" height="28" alt="Terraform"/>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" height="28" alt="Git"/>
 </p>
 
@@ -136,7 +139,7 @@ Variational quantum classifier built with PyQuil over Rigetti's NISQ infrastruct
 ## Education and certifications
 
 - Master's Degree in Artificial Intelligence Research — AEPIA / UIMP (in progress)
-- Bachelor's in Intelligent Systems Engineering — UIE Coruña · **graduated with a 9.0/10 average and 4 Distinctions (Matrícula de Honor)** · thesis awarded Distinction (Matrícula de Honor) and recommended for conversion into a research paper
+- Bachelor's in Intelligent Systems Engineering — UIE Coruña · **graduated with a 9.0/10 average (9.7/10 in the final year) and 4 Distinctions (Matrícula de Honor)** · thesis awarded Distinction (Matrícula de Honor) and recommended for conversion into a research paper
 - Engineering Summer Programme 2023 — Girton College, Cambridge University
 - Deep Learning Specialization — DeepLearning.AI
 - PyTorch for Deep Learning Professional Certificate — Coursera
