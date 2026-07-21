@@ -27,7 +27,7 @@
   </picture>
 </p>
 
-I work mostly on AI applied to Formula 1: strategy systems, telemetry analysis, computer vision over race footage and a few side experiments outside motorsport. Junior AI Engineer at NTT DATA Spain (A Coruña), working across many areas of AI, from computer vision research to research into LLM behavior, agentic AI solutions and tooling such as Model Context Protocol (MCP) servers. Now pursuing a Master's Degree in Artificial Intelligence Research (AEPIA / UIMP) alongside his full-time role. Alumnus of the Cambridge Engineering Summer Programme (2023, Girton College).
+I work mostly on AI applied to Formula 1: strategy systems, telemetry analysis, computer vision over race footage and a few side experiments outside motorsport. Junior AI Engineer at NTT DATA Spain (AI/automation projects) and currently focused on building practical systems rather than just prototypes.
 
 ---
 
@@ -43,7 +43,7 @@ I work mostly on AI applied to Formula 1: strategy systems, telemetry analysis, 
   <img src="assets/f1-stratlab/f1stratlab-arcade-demo.gif" alt="F1 StratLab arcade demo" width="680"/>
 </p>
 
-Final Degree Project. Seven ML models (XGBoost, TCN + MC Dropout, LightGBM, RoBERTa, SetFit, BERT-large, Whisper) plus a LangGraph multi-agent orchestrator and a 2D race replay UI. RAG over FIA regulations on Qdrant.
+Final Degree Project. Seven ML models (XGBoost, TCN + MC Dropout, LightGBM, RoBERTa, SetFit, BERT-large, Whisper) plus a LangGraph multi-agent orchestrator and a 2D race replay UI. RAG over FIA regulations and race context.
 
 [github.com/VforVitorio/F1-StratLab](https://github.com/VforVitorio/F1-StratLab) · [Landing](https://vforvitorio.github.io/f1stratlab-web/) · [DeepWiki](https://deepwiki.com/VforVitorio/F1-StratLab)
 
@@ -73,7 +73,7 @@ Streamlit + FastAPI tool for telemetry inspection, multimodal input and automati
 
 [github.com/VforVitorio/F1_Telemetry_Manager](https://github.com/VforVitorio/F1_Telemetry_Manager)
 
-### LexFlow — graph-based AI agent framework
+### LexFlow — open-source legislation platform for Spanish law
 
 <p align="center">
   <a href="https://github.com/VforVitorio/LexFlow">
@@ -81,7 +81,7 @@ Streamlit + FastAPI tool for telemetry inspection, multimodal input and automati
   </a>
 </p>
 
-Open-source framework for building graph-based AI agent systems on FastAPI and MCP tools. Chat-driven workflows, tool calling and a visual graph interface for debugging and orchestration. Powers my legalize-es legislation corpus.
+Open-source platform for exploring, analysing and consulting Spanish legislation. It combines a FastAPI backend, a React + TypeScript frontend, a knowledge graph, chat tools and interactive dashboards over the `legalize-es` corpus.
 
 [github.com/VforVitorio/LexFlow](https://github.com/VforVitorio/LexFlow)
 
@@ -139,7 +139,7 @@ Variational quantum classifier built with PyQuil over Rigetti's NISQ infrastruct
 ## Education and certifications
 
 - Master's Degree in Artificial Intelligence Research — AEPIA / UIMP (in progress)
-- Bachelor's in Intelligent Systems Engineering — UIE Coruña · **graduated with a 9.0/10 average (9.7/10 in the final year) and 4 Distinctions (Matrícula de Honor)** · thesis awarded Distinction (Matrícula de Honor) and recommended for conversion into a research paper
+- Bachelor's in Intelligent Systems Engineering — UIE Coruña · **graduated with a 9.0/10 average (9.7/10 in the final year) and 4 Distinctions (Matrícula de Honor)** · thesis awarded Distinction
 - Engineering Summer Programme 2023 — Girton College, Cambridge University
 - Deep Learning Specialization — DeepLearning.AI
 - PyTorch for Deep Learning Professional Certificate — Coursera
