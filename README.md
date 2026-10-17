@@ -1,163 +1,62 @@
 <div align="center">
 
-# Hi! I'm Víctor
+# Hi, I'm Víctor
 
-*Junior AI Engineer at NTT DATA Spain · BSc Intelligent Systems Engineering (UIE) · MSc AI Research (AEPIA/UIMP, alongside full-time) · Formula 1 analytics*
+**Junior AI Engineer at NTT DATA Spain**  
+BSc Intelligent Systems Engineering · MSc Artificial Intelligence Research (in progress)
+
+[Portfolio](https://www.victorvegasobral.com) · [LinkedIn](https://www.linkedin.com/in/victorvegasobral/) · [Medium](https://medium.com/@VforVitorio/)
 
 </div>
 
 <p align="center">
-  <img src="assets/banner/banner.png" alt="Banner" width="900"/>
+  <img src="assets/banner/banner.png" alt="Profile banner" width="900"/>
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=VforVitorio&show_icons=true&theme=radical&hide_border=true" alt="GitHub stats" height="180"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=VforVitorio&theme=radical&hide_border=true" alt="GitHub streak" height="180"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VforVitorio&layout=compact&theme=radical&hide_border=true&langs_count=8" alt="Top languages" height="160"/>
-</p>
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/VforVitorio/VforVitorio/output/github-snake-dark.svg"/>
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/VforVitorio/VforVitorio/output/github-snake.svg"/>
-    <img alt="Contribution snake animation" src="https://raw.githubusercontent.com/VforVitorio/VforVitorio/output/github-snake.svg" width="820"/>
-  </picture>
-</p>
-
-I work mostly on AI applied to Formula 1: strategy systems, telemetry analysis, computer vision over race footage and a few side experiments outside motorsport. Junior AI Engineer at NTT DATA Spain (AI/automation projects) and currently focused on building practical systems rather than just prototypes.
+I build applied AI systems, from predictive models and computer vision to multi-agent tools. Most of my independent work focuses on Formula 1 analysis, with selected projects outside motorsport.
 
 ---
 
-## Featured projects
+## Selected projects
 
-### F1-StratLab — multi-agent F1 strategy system
+### F1 StratLab
 
 <p align="center">
   <a href="https://vforvitorio.github.io/f1stratlab-web/">
     <img src="assets/f1-stratlab/f1_stratlab_logo.png" alt="F1 StratLab" width="380"/>
   </a>
   <br/>
-  <img src="assets/f1-stratlab/f1stratlab-arcade-demo.gif" alt="F1 StratLab arcade demo" width="680"/>
+  <img src="assets/f1-stratlab/f1stratlab-arcade-demo.gif" alt="F1 StratLab race replay and strategy dashboard" width="680"/>
 </p>
 
-Final Degree Project. Seven ML models (XGBoost, TCN + MC Dropout, LightGBM, RoBERTa, SetFit, BERT-large, Whisper) plus a LangGraph multi-agent orchestrator and a 2D race replay UI. RAG over FIA regulations and race context.
+An open-source system for replaying Formula 1 races and exploring strategy decisions lap by lap. Seven predictive models feed six specialist agents and an orchestrator. The same engine powers a CLI, web app and 2D arcade.
 
-[github.com/VforVitorio/F1-StratLab](https://github.com/VforVitorio/F1-StratLab) · [Landing](https://vforvitorio.github.io/f1stratlab-web/) · [DeepWiki](https://deepwiki.com/VforVitorio/F1-StratLab)
+[Repository](https://github.com/VforVitorio/F1-StratLab) · [Demo](https://vforvitorio.github.io/f1stratlab-web/) · [Documentation](https://docs.f1stratlab.com/) · [Paper](https://github.com/VforVitorio/F1-StratLab/raw/main/documents/thesis/F1_StratLab_Paper.pdf)
 
-### F1 AC Digital Twin — Assetto Corsa behavioral RL
-
-Formula 1 digital twin trained with behavioral cloning and reinforcement learning over Assetto Corsa, with a Grafana / InfluxDB / Apache Kafka monitoring stack.
-
-[github.com/VforVitorio/F1_AC_Digital_Twin](https://github.com/VforVitorio/F1_AC_Digital_Twin)
-
-### F1 AI Team Detection — YOLOv12 over race footage
+### F1 AI Team Detection
 
 <p align="center">
-  <img src="assets/team-detection/team-detection-demo.gif" alt="Team detection demo" width="540"/>
+  <img src="assets/team-detection/team-detection-demo.gif" alt="F1 team detection and car gap estimation demo" width="540"/>
 </p>
 
-Detection and classification of F1 teams from race images and videos, with a derived feature that draws car-to-car gap in metres and seconds.
+A computer-vision experiment that detects Formula 1 teams in race footage and estimates gaps between cars with YOLOv12 and OpenCV.
 
-[github.com/VforVitorio/F1_AI_team_detection](https://github.com/VforVitorio/F1_AI_team_detection)
+[Repository](https://github.com/VforVitorio/F1_AI_team_detection)
 
-### F1 Telemetry Manager — multimodal telemetry analysis
+### F1 AC Digital Twin
 
-<p align="center">
-  <img src="assets/telemetry/telemetry-demo.gif" alt="F1 Telemetry Manager demo" width="600"/>
-</p>
+A research prototype for Assetto Corsa telemetry. It combines TCN-based behaviour modelling with a four-expert GMM/MoE anomaly detector, streaming live or replayed telemetry through Kafka, InfluxDB and Grafana.
 
-Streamlit + FastAPI tool for telemetry inspection, multimodal input and automatic reports. Vendored as a git submodule inside F1-StratLab.
-
-[github.com/VforVitorio/F1_Telemetry_Manager](https://github.com/VforVitorio/F1_Telemetry_Manager)
-
-### LexFlow — open-source legislation platform for Spanish law
-
-<p align="center">
-  <a href="https://github.com/VforVitorio/LexFlow">
-    <img src="assets/lexflow/lexflow-banner.png" alt="LexFlow" width="476"/>
-  </a>
-</p>
-
-Open-source platform for exploring, analysing and consulting Spanish legislation. It combines a FastAPI backend, a React + TypeScript frontend, a knowledge graph, chat tools and interactive dashboards over the `legalize-es` corpus.
-
-[github.com/VforVitorio/LexFlow](https://github.com/VforVitorio/LexFlow)
-
-### marginalia — handwritten notes to Obsidian Markdown
-
-<p align="center">
-  <img src="assets/marginalia/marginalia-demo.gif" alt="marginalia demo: a handwritten Kindle Scribe page transcribed to Markdown and exported to an Obsidian vault" width="476"/>
-</p>
-
-Turns Kindle Scribe handwritten notebooks into Obsidian Markdown. Import a Scribe PDF, OCR the handwriting (even math, as KaTeX), review it side by side, then export to your vault.
-
-[github.com/VforVitorio/marginalia](https://github.com/VforVitorio/marginalia)
-
-### lmcode — local coding agent CLI on LM Studio
-
-A small CLI coding agent that runs entirely against a local LM Studio server. No cloud, no telemetry. Personal sandbox to explore tool-using agents on consumer hardware.
-
-[github.com/VforVitorio/lmcode](https://github.com/VforVitorio/lmcode)
-
-### variational_quantum_classifier — quantum ML on Rigetti
-
-Variational quantum classifier built with PyQuil over Rigetti's NISQ infrastructure, applied to spiral dataset separation. Side experiment outside motorsport.
-
-[github.com/VforVitorio/variational_quantum_classifier](https://github.com/VforVitorio/variational_quantum_classifier)
+[Repository](https://github.com/VforVitorio/F1_AC_Digital_Twin)
 
 ---
 
-## Tech I use day to day
+## Other work
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" height="28" alt="Python"/>
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" height="28" alt="PyTorch"/>
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" height="28" alt="TensorFlow"/>
-  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" height="28" alt="scikit-learn"/>
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" height="28" alt="NumPy"/>
-  <img src="https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" height="28" alt="pandas"/>
-  <img src="https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white" height="28" alt="Plotly"/>
-  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" height="28" alt="LangChain"/>
-  <img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge&logo=langgraph&logoColor=white" height="28" alt="LangGraph"/>
-  <img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" height="28" alt="Hugging Face"/>
-  <img src="https://img.shields.io/badge/MCP-000000?style=for-the-badge&logo=modelcontextprotocol&logoColor=white" height="28" alt="Model Context Protocol"/>
-  <img src="https://img.shields.io/badge/Qdrant-DC244C?style=for-the-badge&logo=qdrant&logoColor=white" height="28" alt="Qdrant"/>
-  <img src="https://img.shields.io/badge/Pydantic-E92063?style=for-the-badge&logo=pydantic&logoColor=white" height="28" alt="Pydantic"/>
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" height="28" alt="FastAPI"/>
-  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" height="28" alt="Streamlit"/>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" height="28" alt="Docker"/>
-  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" height="28" alt="Kubernetes"/>
-  <img src="https://img.shields.io/badge/Helm-0F1689?style=for-the-badge&logo=helm&logoColor=white" height="28" alt="Helm"/>
-  <img src="https://img.shields.io/badge/Terraform-844FBA?style=for-the-badge&logo=terraform&logoColor=white" height="28" alt="Terraform"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" height="28" alt="Git"/>
-</p>
+**marginalia** turns Kindle Scribe notebooks into reviewed Obsidian Markdown using OCR.
 
----
+[Repository](https://github.com/VforVitorio/marginalia) · [Website](https://vforvitorio.github.io/marginalia/) · [Demo](https://github.com/VforVitorio/marginalia/blob/main/docs/demo/marginalia-demo.mp4)
 
-## Education and certifications
+## Open-source contributions
 
-- Master's Degree in Artificial Intelligence Research — AEPIA / UIMP (in progress)
-- Bachelor's in Intelligent Systems Engineering — UIE Coruña · **graduated with a 9.0/10 average (9.7/10 in the final year) and 4 Distinctions (Matrícula de Honor)** · thesis awarded Distinction
-- Engineering Summer Programme 2023 — Girton College, Cambridge University
-- Deep Learning Specialization — DeepLearning.AI
-- PyTorch for Deep Learning Professional Certificate — Coursera
-- IBM Deep Learning with PyTorch, Keras and TensorFlow — Coursera
-- DeepLearning.AI Data Analytics Professional Certificate — Coursera
-
----
-
-## Contact
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/victorvegasobral/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" height="34" alt="LinkedIn"/></a>
-  &nbsp;
-  <a href="https://www.victorvegasobral.com"><img src="https://img.shields.io/badge/Portfolio-6c5ce7?style=for-the-badge&logo=googlechrome&logoColor=white" height="34" alt="Portfolio"/></a>
-  &nbsp;
-  <a href="https://medium.com/@VforVitorio/"><img src="https://img.shields.io/badge/Medium-111111?style=for-the-badge&logo=medium&logoColor=white" height="34" alt="Medium"/></a>
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=VforVitorio&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile views"/>
-</p>
+Merged contributions to Fast-F1: [Ruff pandas-vet rules](https://github.com/theOehrly/Fast-F1/pull/958) · [`Laps.iterlaps` fix](https://github.com/theOehrly/Fast-F1/pull/960) · [PD010 documentation](https://github.com/theOehrly/Fast-F1/pull/962)
